@@ -10,7 +10,7 @@ Para executar o projeto rode:
 sail up -d
 
 
-Link documentação: https://documenter.getpostman.com/view/14225872/UVyrVwpA  
+Link documentação:  
 
 
 
