@@ -10,8 +10,6 @@ Para executar o projeto rode:
 sail up -d
 
 
-Link documentação:  
-
 
 
 Projeto foi criado e intuido dele era testar alguns aspectos da API.
